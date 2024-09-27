@@ -41,7 +41,7 @@ public class Variables {
         
         System.out.println(hola);
         
-        // boolean
+        // booleanooooo
         
         boolean variable_boleana = true;
         
